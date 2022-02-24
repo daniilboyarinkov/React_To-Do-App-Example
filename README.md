@@ -13,5 +13,5 @@ In that project I used:
 + LocalStorage Interactions
 + Drag & Drop Feature using react-beautiful-dnd
 
-**You can see the web version of the project by following this link: **
+**You can see the web version of the project by following the link down below:**
 
