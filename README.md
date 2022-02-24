@@ -14,4 +14,4 @@ In that project I used:
 + Drag & Drop Feature using react-beautiful-dnd
 
 **You can see the web version of the project by following the link down below:**
-
+**https://daniilboyarinkov.github.io/React_To-Do-App-Example/**
