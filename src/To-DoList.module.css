@@ -1,0 +1,66 @@
+.todos {
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.todo {
+    border: 0.1rem black solid;
+    border-radius: 1rem;
+    margin: 1rem 0;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: #c0c0c0;
+    color: #3c3c3c;
+    font-weight: bold;
+}
+
+.tododone {
+    background-color: #3c3c3c;
+    color: #c0c0c0;
+}
+
+.delet {
+    border: none;
+    margin: 0.5rem 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    background-color: #6600ff;
+    color: gray;
+    cursor: pointer;
+}
+
+.delet:hover {
+    background-color: gray;
+    color: #6600ff;
+    transition: 0.4s;
+}
+
+.toggle {
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    color: gray;
+}
+
+.undone {
+    background-color: aquamarine;
+}
+
+.undone:hover {
+    color: aquamarine;
+    background-color: gray;
+    transition: 0.4s;
+}
+
+.done {
+    background-color: #3c3c3c;
+}
+
+.done:hover {
+    background-color: gray;
+    color: #3c3c3c;
+    transition: 0.4s;
+}
