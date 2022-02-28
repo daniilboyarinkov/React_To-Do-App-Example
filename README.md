@@ -9,6 +9,10 @@ So, please do not carp to my code.
 
 ![изображение](https://user-images.githubusercontent.com/89917619/156036573-e8baa718-7c19-47a0-abf7-3e100329fade.png)
 
+
+
+![Анимация](https://user-images.githubusercontent.com/89917619/156041274-224c9b56-1e4c-4ef3-89af-7bc43904fc09.gif)
+
 ---
 
 
